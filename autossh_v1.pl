@@ -31,7 +31,7 @@ while (1) {
     if ($t =~ /1/) {
         print $t;
     } else {
-        say "No connection";
+        say "No connection!!!";
     }
 
     say "   >>> 获取服务器更新请求";
